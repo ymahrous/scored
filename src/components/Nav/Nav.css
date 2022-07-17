@@ -1,0 +1,16 @@
+Link {
+    color: #2285d0;
+}
+  
+Link:hover {
+    opacity: 0.7;
+  }
+  
+Link {
+    font-size: 1.1rem;
+    transition: color .4s ease;
+}
+
+.links {
+    text-align: center;
+}

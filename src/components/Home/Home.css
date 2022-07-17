@@ -1,0 +1,33 @@
+body {
+    background-color: #333333;
+}
+
+article {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    text-align: left;
+}
+
+.highLowInput {
+    display: inline-block;
+    align-content: center;
+}
+
+h2 {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.buton {
+    text-align: center;
+}
+
+.legend {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+Button {
+    text-align: center;
+}
