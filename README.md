@@ -1,1 +1,1 @@
-# Calculate your german score
+# Scored
