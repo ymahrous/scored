@@ -20,16 +20,6 @@ export default function About() {
                         <div className='legend'>
                             <legend className="f3 ph0 mh0">crafted with peace</legend>
                         </div>
-                        <div className="ui form mt4">
-                            <div className="fields">
-                                <div className="field">
-                                    <div>
-                                        <h1><a>Yousef Mahrous</a></h1>
-                                        <p className="f4 fw3">- yousefzentral@gmail.com</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </fieldset>
                 </div>
             </main>
