@@ -13,7 +13,7 @@ export default function Footer() {
                 </ul>
             </div>
             <div className="footer-bottom">
-                <p><span>&copy; 2022 Yousef Mahrous. All rights reserved.</span></p>
+                <p><span>&copy; 2023 Yousef Mahrous. All rights reserved.</span></p>
             </div>
         </footer>
     );
