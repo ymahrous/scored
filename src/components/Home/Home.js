@@ -15,7 +15,7 @@ export default function Home() {
         const globalScore = (HScore+UniScore)/2;
         
         if(highest === '' || lowest === '') {
-            msg.innerHTML = 'you must provide values for both Highest Possible Score and Lowest Succeed Score';
+            msg.innerHTML = 'you must provide values for both Highest Possible Score and Lowest Passing Score';
         } else if(highSchool === '') {
             msg.innerHTML = 'you must provide a value for High School Score';
         } else if(firstUni === '') {
@@ -27,7 +27,7 @@ export default function Home() {
             }
             msg.innerHTML = 'Your German Score is ' + HScore;
         } else if(highestUni === '' || lowestUni === '') {
-            msg.innerHTML = 'you must provide values for both Highest Possible Score and Lowest Succeed Score';
+            msg.innerHTML = 'you must provide values for both Highest Possible Score and Lowest Passing Score';
         } else {
             if(HScore>4) {
                 return msg.innerHTML = 'Your German Score is 5';
